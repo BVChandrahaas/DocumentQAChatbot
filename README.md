@@ -91,7 +91,7 @@ streamlit run app.py
    - Loads and splits PDF documents using `PyPDFLoader`.
    - Generates embeddings using **SentenceTransformers**.
    - Stores embeddings locally in FAISS for fast retrieval.
-   - Combines retrieved chunks and generates answers via GPT-4o.
+   - Combines retrieved chunks and generates answers via GPT-4o-mini.
 
 2. **`app.py`**:
    - Provides the user interface for document upload and query input.

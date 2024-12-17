@@ -7,6 +7,7 @@ This project implements a **Document QA System** that:
 4. **Generates answers** to user queries using an AI language model.
 
 The application uses **Streamlit** for the UI, making it interactive and user-friendly.
+The folder Testing images have the screen-shots obtained while running the application.
 
 ---
 
